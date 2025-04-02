@@ -32,7 +32,3 @@ Una plataforma donde los usuarios pueden planificar eventos (bodas, conferencias
 - **🔌 Chat en Tiempo Real**: WebSockets o Firebase
 - **🧠 IA**: Ollama IA (plataforma para descargar modelos de IA en local -> utilizar Mistral para este proyecto) especializada en planificación de eventos
 
----
-<div align="center">
-  <h3>🚀 ¡Comienza a planificar tus eventos de manera inteligente!</h3>
-</div>
